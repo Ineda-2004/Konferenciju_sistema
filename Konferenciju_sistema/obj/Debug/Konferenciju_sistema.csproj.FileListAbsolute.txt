@@ -1,0 +1,98 @@
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Konferenciju_sistema.exe.config
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Konferenciju_sistema.exe
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Konferenciju_sistema.pdb
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.csproj.AssemblyReference.cache
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Properties.Resources.resources
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.csproj.GenerateResource.cache
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.csproj.CoreCompileInputs.cache
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.exe
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.pdb
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form1.resources
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Google.Protobuf.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\MySql.Data.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Buffers.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Memory.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\ZstdSharp.dll
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Google.Protobuf.pdb
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Google.Protobuf.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\MySql.Data.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Buffers.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Memory.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.csproj.CopyComplete
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form2.resources
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form3.resources
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form4.resources
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form6.resources
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Organizatorius.resources
+C:\Users\ineda\Desktop\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form7.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Konferenciju_sistema.exe.config
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Konferenciju_sistema.exe
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Konferenciju_sistema.pdb
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Google.Protobuf.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Compression.LZ4.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Hash.xxHash.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\MySql.Data.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Buffers.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.IO.Pipelines.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Memory.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Numerics.Vectors.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\ZstdSharp.dll
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Google.Protobuf.pdb
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Google.Protobuf.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Compression.LZ4.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\K4os.Hash.xxHash.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\MySql.Data.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Buffers.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.IO.Pipelines.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Memory.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Numerics.Vectors.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.csproj.AssemblyReference.cache
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form1.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form2.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form3.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form4.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Organizatorius.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form6.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Form7.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.Properties.Resources.resources
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.csproj.GenerateResource.cache
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.csproj.CoreCompileInputs.cache
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.csproj.CopyComplete
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.exe
+D:\DB praktika\Konferenciju_sistema\Konferenciju_sistema\obj\Debug\Konferenciju_sistema.pdb
